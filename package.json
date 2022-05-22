@@ -1,0 +1,27 @@
+{
+  "name": "usevuex",
+  "version": "1.0.0",
+  "description": "custom util functions for Vuex state, getter, mutation and action based on @vue/composition-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilovePUBG/useVuex.git"
+  },
+  "author": "ilovePUBG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilovePUBG/useVuex/issues"
+  },
+  "homepage": "https://github.com/ilovePUBG/useVuex#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.6.0",
+    "vue": "^2.6.14",
+    "vuex": "^3.6.2"
+  }
+}
